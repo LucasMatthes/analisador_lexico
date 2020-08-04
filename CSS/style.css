@@ -1,0 +1,64 @@
+/*Cabeçalho*/	
+img {
+	max-width: 100%
+	height: auto;
+	margin-left: 50%;
+}
+
+a {
+	padding: 10px 5px;
+	border-radius: 6px;
+	color: red;
+}
+ li a:hover {
+	background: white;
+	text-decoration: none;
+}
+
+.fml {
+	margin-left: 50px;
+	margin-top: 20px;
+}
+
+.fml li {
+	display: inline;
+	margin: 10px 10px;
+}
+
+.fml li:last-child {
+	margin-right: 15px;
+}
+
+.pesq {
+	margin-left: 5%;
+	margin-top: 20px;
+}
+
+.botao {
+	background: blue;
+	border-radius: 6px;
+}
+
+.botao:hover {
+	background: white;
+}
+
+.txt {
+	border-radius: 6px;
+}
+
+.navbar {
+	margin: 20px 5px;
+	background-color: red;
+	
+}
+
+.social-icons > a:hover  {
+	background-color: white;
+}
+
+.ret img {
+	max-width: 100%
+	height: auto;
+	margin: 10px;
+}
